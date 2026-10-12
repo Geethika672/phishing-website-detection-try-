@@ -1,0 +1,6 @@
+{
+  "name": "Phishing Website Detection System",
+  "description": "Frontend prototype for a college project evaluating website URLs across URL, domain, and webpage features using machine learning architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
